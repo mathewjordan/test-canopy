@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://mathewjordan.github.io/test-canopy
+
+# Sitemaps
+Sitemap: https://mathewjordan.github.io/test-canopy/sitemap.xml
