@@ -21,6 +21,7 @@ const args = process.argv;
     CANOPY_CONFIG: {
       ...config,
       url,
+      assetPrefix: basePath,
       basePath,
       baseUrl,
     },
